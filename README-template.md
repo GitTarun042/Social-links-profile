@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gittharun.github.io/Social-Links-project/)
+- Live Site URL: [Add live site URL here](https://gittarun042.github.io/Social-links-profile/)
 
 ## My process
 
